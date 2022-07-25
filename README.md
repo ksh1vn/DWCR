@@ -1,4 +1,4 @@
-# Ex Machina Doomer Wave Community Remaster
+# Doomer Wave Community Remaster
 
 ![Глухое в Doomer Wave](https://github.com/ksh1vn/DWCR/blob/main/loading_screen_4.jpg?raw=true)
 
