@@ -1941,7 +1941,7 @@
 		waterWaveHBig="0.970"
 		waterWaveHSmall="1.220"
 		waterWaveSizeBig="0.450"
-		waterWaveSizeSmall="2.350"
+		waterWaveSizeSmall="2.340"
 		waterCourseAngle="0.960"
 		waterSpecularM="37.000"
 		waterSpecularS="0.006">
@@ -2022,7 +2022,7 @@
 		class="WeatherClear"
 		name="r3m2"
 		skyDomeFactor="2.000"
-		waterSpeed="1.000"
+		waterSpeed="0.310"
 		waterWaveHBig="0.950"
 		waterWaveHSmall="0.000"
 		waterWaveSizeBig="0.290"
