@@ -84,7 +84,7 @@
 				Fly("start_rolik1", CINEMATIC_NO_AIM, 0, 35, 0, 0 )
 				Fly("start_rolik11", CINEMATIC_NO_AIM, 0, 1.5, 0, 0 )
 				Fly("start_rolik5", CINEMATIC_NO_AIM, 0, 13, 0, 0 )
-				Fly("start_rolik6", CINEMATIC_NO_AIM, 0, 14, 0, 0 )
+				Fly("start_rolik6", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
 				Fly("start_rolik2", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
 				Fly("start_rolik3", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
 				Fly("start_rolik8", CINEMATIC_NO_AIM, 0, 13, 0, 0 )
